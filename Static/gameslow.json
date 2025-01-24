@@ -43,19 +43,19 @@
   },
   "12100": {
     "id": "12100",
-    "name": "Unknown Game",
+    "name": "Grand Theft Auto III",
     "drm_notice": "",
     "ext_user_account_notice": ""
   },
   "12110": {
     "id": "12110",
-    "name": "Unknown Game",
+    "name": "Grand Theft Auto: Vice City",
     "drm_notice": "",
     "ext_user_account_notice": ""
   },
   "12120": {
     "id": "12120",
-    "name": "Unknown Game",
+    "name": "Grand Theft Auto: San Andreas",
     "drm_notice": "",
     "ext_user_account_notice": ""
   },
@@ -103,7 +103,7 @@
   },
   "1462040": {
     "id": "1462040",
-    "name": "Unknown Game",
+    "name": "FINAL FANTASY VII REMAKE INTERGRADE",
     "drm_notice": "",
     "ext_user_account_notice": ""
   },
@@ -295,7 +295,7 @@
   },
   "2440510": {
     "id": "2440510",
-    "name": "Unknown Game",
+    "name": "Forza Motorsport",
     "drm_notice": "",
     "ext_user_account_notice": ""
   },
@@ -686,12 +686,6 @@
   "866800": {
     "id": "866800",
     "name": "The Walking Dead: The Final Season",
-    "drm_notice": "",
-    "ext_user_account_notice": ""
-  },
-  "8668001": {
-    "id": "8668001",
-    "name": "Unknown Game",
     "drm_notice": "",
     "ext_user_account_notice": ""
   },
